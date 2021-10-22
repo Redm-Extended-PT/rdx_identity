@@ -2,7 +2,7 @@
 Identity System for RDX Core
 
 ## Requirements
-- [RDX Core]()
+- [RDX Core](https://github.com/Redm-Extended-PT/rdx_core)
 
 ## How to install
 * Download the lastest version of RDX Identity
