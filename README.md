@@ -16,3 +16,4 @@ Identity System for RDX Core
 
 ## Screens
 ![1](https://cdn.discordapp.com/attachments/686807996420063232/845642380509446194/unknown_1.png)
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
